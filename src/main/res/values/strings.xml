@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Price Watcher</string>
+    <string name="view_item">Fire TV Stick</string>
+    <string name="intial_price">Initial Price:</string>
+    <string name="price_change">Price Change:</string>
+    <string name="update_price">Update</string>
+    <string name="title_activity_list_view">listView</string>
+    <string name="refresh">refresh</string>
+    <string name="current_price">Current Price:</string>
+    <string name="percent">Percent:</string>
+    <string name="addproduct">addProduct</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+
+</resources>
